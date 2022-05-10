@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "hehe World!" );
         System.out.println( "你好，git" );
+        System.out.println( "您好，idea git" );
     }
 }
